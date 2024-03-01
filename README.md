@@ -1,3 +1,4 @@
+objective :-
  Gesture recognition helps computers to understand human body language. This helps to build
  a more potent link between humans and machines, rather than just the basic text user
  interfaces or graphical user interfaces (GUIs).
